@@ -2,7 +2,7 @@
 
 API de seguridad postcuántica (FIPS 204 / ML-DSA): auditoría, benchmarks y tests.
 
-**Autor:** Lázaro López Paz · **Licencia:** MIT (ver `LICENSE`)
+**Autor:** Lázaro López Paz · **Licencia:** Apache 2.0 (ver `LICENSE`)
 
 ## Carpetas de origen en Google Drive
 
@@ -54,8 +54,10 @@ Archivos binarios (presentaciones, PDFs grandes, vídeos, imágenes, zips, docx)
 
 ## Notas de revisión
 
-- «README-v2.md» menciona la licencia Apache 2.0; el repositorio usa MIT por decisión del autor.
-- «setup_github_repo.sh» menciona la licencia Apache 2.0; el repositorio usa MIT por decisión del autor.
+
+## Licencia
+
+Bajo [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), como declara el código (`README-v2.md`, `setup_github_repo.sh`). Ver `LICENSE`.
 
 ---
 Los archivos `.trashed-*`, las copias («- copia») y los duplicados entre carpetas no se han listado.
